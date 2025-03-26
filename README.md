@@ -18,7 +18,7 @@ python -m pip install flask
 python cnemc.py
 ```
 
-**打开浏览器, 输入http://127.0.0.1:9898查看**
+**打开浏览器, 输入 http://127.0.0.1:9898 查看**
 ![image](https://github.com/user-attachments/assets/d46ff01b-c6d1-44cc-9885-a3c75f5baca7)
 
 **后台数据引用来自**
