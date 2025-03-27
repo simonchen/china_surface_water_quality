@@ -21,6 +21,10 @@ python cnemc.py
 **打开浏览器, 输入 http://127.0.0.1:9898 查看**
 ![image](https://github.com/user-attachments/assets/d46ff01b-c6d1-44cc-9885-a3c75f5baca7)
 
+
+![image](https://github.com/user-attachments/assets/2add1ef5-f55c-42af-b9a1-7ecc5f16e6bd)
+
+
 **后台数据引用来自**
 ···
 https://szzdjc.cnemc.cn:8070/GJZ/Business/Publish/Main.html
